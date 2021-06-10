@@ -19,6 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/machine%20learning%20-%23150458.svg?&style=flat&logo=machinelearning&logoColor=white)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform%20-%23150458.svg?&style=flat&logo=googlecloudplatform&logoColor=white)&nbsp;
 
 <!---
 itsaman94/itsaman94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
